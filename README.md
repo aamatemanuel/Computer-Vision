@@ -24,7 +24,7 @@ This is a DIY project, in which I built a low-cost stereo camera. My goal was to
 <img src="./Camera Calibration/Low_cost_stereo_camera.jpeg" alt="drawing" width="350"/>
 </p>  
 
-## [3. Computer Vision - KUL](https://github.com/aamatemanuel/Computer_Vision/tree/main/Computer%20Vision)
+## [3. Computer Vision - KUL](https://github.com/aamatemanuel/Computer_Vision/tree/main/Computer%20Vision%20-%20KUL)
 ### Description
 During my master studies I took 2 courses relevant to the field:
 1. [Computer Vision: Master of Artificial Intelligence.](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A5AE.htm#activetab=doelstellingen_idm1894640)
