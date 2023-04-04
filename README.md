@@ -24,7 +24,8 @@ This is a DIY project, in which I built a low-cost stereo camera. My goal was to
 <img src="./Camera Calibration/Low_cost_stereo_camera.jpeg" alt="drawing" width="350"/>
 </p>  
 
-## 3. Computer Vision
+## [3. Computer Vision - KUL](https://github.com/aamatemanuel/Computer_Vision/tree/main/Computer%20Vision)
+### Description
 During my master studies I took 2 courses relevant to the field:
 1. [Computer Vision: Master of Artificial Intelligence.](https://onderwijsaanbod.kuleuven.be/syllabi/e/H02A5AE.htm#activetab=doelstellingen_idm1894640)
 2. [Image Analysis and Understanding: Master of Electrical Engineering](https://onderwijsaanbod.kuleuven.be/syllabi/e/H09J2AE.htm#activetab=doelstellingen_idm18554528)  
@@ -45,6 +46,7 @@ Additionally, I took some MOOC's for Object Oriented Programming, and pandas for
 
 
 ## [5. Mobile Robot](https://github.com/aamatemanuel/Computer_Vision/tree/main/Mobile%20Robot)
+### Description
 The [MECO research group @ KU Leuven](https://www.mech.kuleuven.be/en/pma/research/meco) build an AMR for navigation through complex warehouses, with varying dynamic constraints. Now the intention is to add visual perception to the vehicle to detect parking slots and then to automatically perform a parking maneuver. The setup can be shown in the next picture.
 
 <p align="center">
